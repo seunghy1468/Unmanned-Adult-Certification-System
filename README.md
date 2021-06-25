@@ -104,6 +104,37 @@ ex) Data
 ## 🍍 결과
 ## RESULT
 
+### Number
+![image](https://user-images.githubusercontent.com/47622991/123439747-00b96100-d60d-11eb-9ff5-0bb32902d365.png)   
+![image](https://user-images.githubusercontent.com/47622991/123439778-08790580-d60d-11eb-8d8a-94ca149e4b19.png)    
+
+
+
+### Face
+![image](https://user-images.githubusercontent.com/47622991/123439848-1dee2f80-d60d-11eb-9cde-ac138e08d3c5.png)
+![image](https://user-images.githubusercontent.com/47622991/123439869-23e41080-d60d-11eb-822c-11e792051071.png)   
+![image](https://user-images.githubusercontent.com/47622991/123439890-2ba3b500-d60d-11eb-92fb-203b3582b385.png)   
+![image](https://user-images.githubusercontent.com/47622991/123439903-2fcfd280-d60d-11eb-9d12-82adc66f1eae.png)    
+![image](https://user-images.githubusercontent.com/47622991/123439928-34948680-d60d-11eb-9b63-4367c17de508.png)    
+
+
+
+-----------
+### 활용
+
+![image](https://user-images.githubusercontent.com/47622991/123440071-5d1c8080-d60d-11eb-9486-54dba94442a4.png)     
+![image](https://user-images.githubusercontent.com/47622991/123440117-6a396f80-d60d-11eb-8560-17ab2977d7de.png)     
+![image](https://user-images.githubusercontent.com/47622991/123440136-6dccf680-d60d-11eb-9d36-eba92db5c637.png)    
+
+
+
+-----------
+### 한계 및 보완
+
+![image](https://user-images.githubusercontent.com/47622991/123439973-42e2a280-d60d-11eb-8ec5-eeed727e736e.png)    
+![image](https://user-images.githubusercontent.com/47622991/123440017-4c6c0a80-d60d-11eb-8d78-ef50c69caaa5.png)    
+![image](https://user-images.githubusercontent.com/47622991/123440032-51c95500-d60d-11eb-9b0e-b7117037add5.png)    
+
 
 
 
